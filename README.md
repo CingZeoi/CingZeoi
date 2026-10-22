@@ -1,16 +1,13 @@
-## Hi there 👋
+## About **Cirong Zhang**
 
-<!--
-**CingZeoi/CingZeoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Cirong Zhang （张赐荣）](https://zhihu.com/people/tzujung-chang), from Shanghai, is an accessibility technology expert, software engineer, and prominent advocate for digital accessibility. He has long been engaged in assistive technology R&D for visually impaired users and in accessibility remediation for internet products, with deep expertise in accessibility technology development across Web, PC, and mobile platforms.
 
-Here are some ideas to get you started:
+Blind since early childhood with only minimal light perception, he enrolled at Shanghai School for the Blind at the age of twelve. There he first encountered a computer equipped with screen-reading software and began learning information technology. Using screen readers to access technical documentation and online tutorials, he taught himself programming and went on to master C, C#, PHP, Java, .NET, HTML, CSS, JavaScript, and other technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After completing his education, he worked as an independent software developer. Tailored to the needs of visually impaired users, he developed integrated assistive software featuring enhanced screen reading, optical character recognition (OCR), and app shortcut functions. The software gained widespread recognition and positive feedback among visually impaired users.
+
+He later joined an accessibility-focused nonprofit founded under the leadership of leading Chinese internet companies, serving as an R&D engineer for digital accessibility solutions. In this role, he helped drive accessibility upgrades for a number of mainstream internet products.
+
+He has also obtained professional accessibility credentials from Microsoft, the World Wide Web Consortium (W3C), and other organizations. He contributed to drafting the Survey Report on Computer and Information Technology Learning Among Students with Visual Impairments and to translating the Web Accessibility Development Guide. In addition, he has published hundreds of technical tutorials on CSDN, Cnblogs, and other developer communities, systematically promoting the implementation and adoption of accessibility technology in China.
+
+He has been invited on multiple occasions to attend industry summits hosted by the Information Accessibility Joint Conference; the China Information Accessibility Product Alliance; the Information Accessibility Research Association; the Information Accessibility Research Institute; Linkacce Information Accessibility; the Accessibility Design Committee of the Beijing Design Society; the College of Special Education at Beijing Union University; TÜV Rheinland; TÜV SÜD; Alibaba Charity Foundation; Honor Device Co., Ltd.; iFlytek; Shenzhen Tianxun Sikai Technology Co., Ltd.; Microsoft China; Harbin Yishidai Digital Technology Development Co., Ltd.; Datong Enterprise Development Co., Ltd.; and Shenzhen Huashi Charity Foundation.
